@@ -36,7 +36,7 @@ Environment creation guide for Machine Learning. Follow these steps to complete 
 
 Go to your IDE and test a code to verify it's working.
 
-<p align="center">Happy Coding</p>
+<p align="center">Happy Coding 🐞</p>
 
 ## Contact
 GitHub [@riyad959](https://github.com/riyad959)
